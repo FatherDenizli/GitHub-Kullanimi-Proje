@@ -7,7 +7,7 @@ public class GitHubKullanimi {
         System.out.println("Hello World");
         System.out.println("That's it");
 
-
+        System.out.println("Mustafa Branch inde ortak klasta degisiklik yaptim");
 
     }
 }
